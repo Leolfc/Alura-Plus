@@ -96,6 +96,12 @@ font-size: 16px;
     display: inline-block;
     margin-top: 1em;
 }
+
+.secundario__botao:hover{
+    background-color: red;
+}
+
+
 .container__descricao{
     padding: 2em;
     
